@@ -39,8 +39,7 @@ Analisar dados de colaboradores e identificar padrões relacionados a afastament
 
 ## 📷 Visualização do Dashboard
 
-(Coloque aqui a imagem do print que você subiu)
-
+![Dashboard](https://raw.githubusercontent.com/BrunaFreitas-Dev/dashboard-indicadores-saude-ocupacional/refs/heads/main/Imagem%20do%20dashboard.png)
 ---
 
 ## 🚀 Sobre o Projeto
