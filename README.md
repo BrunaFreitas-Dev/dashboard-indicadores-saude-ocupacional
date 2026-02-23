@@ -44,5 +44,3 @@ Analisar dados de colaboradores e identificar padrões relacionados a afastament
 
 ## 🚀 Sobre o Projeto
 Este projeto foi desenvolvido para prática de Business Intelligence e análise de dados, aplicando conceitos de modelagem, criação de medidas em DAX e visualização estratégica de informações.
-
-Este projeto foi desenvolvido para prática de Business Intelligence e análise de dados, aplicando conceitos de modelagem, criação de medidas em DAX e visualização estratégica de informações.
